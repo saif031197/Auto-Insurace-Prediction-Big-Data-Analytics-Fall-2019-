@@ -1,0 +1,66 @@
+,Most Correlated Features
+0,Loss_ratio
+1,Loss_Amount
+2,Vehicle_Performance_High
+3,Driver_Total
+4,Driver_Total_Licensed_In_State
+5,Vehicle_Youthful_Driver_Training_Code_Without Driver Training        
+6,Driver_Total_Teenager_Age_15_19
+7,Vehicle_Youthful_Driver_Indicator_Y
+8,Vehicle_Safe_Driver_Discount_IndicatorN
+9,Driver_Total_Related_To_Insured_Child
+10,Driver_Total_Female
+11,Vehicle_Youthful_Good_Student_Code_Eligible for Good Student Credit    
+12,Unnamed: 0
+13,Vehicle_Usage_Pleasure
+14,Vehicle_Anti_Theft_Device_Alarm Only
+15,Vehicle_Passive_restraint_Y
+16,Driver_Total_Single
+17,Vehicle_Make_Year
+18,Vehicle_Driver_Points
+19,Driver_Total_College_Ages_20_23
+20,Policy_CompanyPreferred
+21,Vehicle_Youthful_Driver_Training_Code_With or Without Driver Training
+22,Vehicle_Symbol
+23,EEA_Packaged_Policy_IndicatorY
+24,EEA_Multi_Auto_Policies_IndicatorY
+25,Driver_Total_Middle_Adult_Ages_40_49
+26,EEA_Agency_TypePreferred
+27,Vehicle_Physical_Damage_Limit
+28,Vehicle_Anti_Theft_Device_Passive Disabling-Vehicle Recovery
+29,EEA_Full_Coverage_IndicatorN
+30,Vehicle_Usage_Farm    
+31,Vehicle_Performance_Sports
+32,EEA_Liability_Coverage_Only_IndicatorN
+33,Policy_Installment_Term
+34,EEA_Agency_TypeNon-standard
+35,EEA_Agency_TypeHybrid
+36,Vehicle_Youthful_Driver_Training_Code_With Driver Training           
+37,Vehicle_Anti_Theft_Device_Unknown
+38,EEA_Liability_Coverage_Only_IndicatorY
+39,Vehicle_Anti_Theft_Device_Active Disabling
+40,Vehicle_Passive_restraint_Unknown
+41,Vehicle_Performance_Sports Premium
+42,EEA_Full_Coverage_IndicatorY
+43,Vehicle_New_Cost_Amount
+44,Vehicle_Med_Pay_Limit
+45,EEA_Agency_TypeStandard
+46,Vehicle_Usage_Business
+47,Vehicle_Collision_Coverage_Deductible
+48,EEA_Multi_Auto_Policies_IndicatorN
+49,Vehicle_Comprehensive_Coverage_Limit
+50,Vehicle_Performance_Intermediate
+51,EEA_Packaged_Policy_IndicatorN
+52,Vehicle_Miles_To_Work
+53,Driver_Total_Young_Adult_Ages_24_29
+54,Driver_Total_Low_Middle_Adult_Ages_30_39
+55,Policy_CompanyStandard 
+56,Vehicle_Anti_Theft_Device_Not Applicable
+57,Vehicle_Passive_restraint_N
+58,Vehicle_Usage_Work    
+59,Vehicle_Youthful_Good_Student_Code_Not Eligible for Good Student Credit
+60,Vehicle_Performance_Standard
+61,Vehicle_Safe_Driver_Discount_IndicatorY
+62,Vehicle_Youthful_Driver_Indicator_N
+63,Vehicle_Youthful_Driver_Training_Code_Not Applicable                 
+64,Annual_Premium
