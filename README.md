@@ -1,3 +1,10 @@
-# BDAProject
+# Big Data Analytics Project Fall 2019
 
-Dead repo, shifted to GDrive. Final work will be posted without the dataset.
+Auto Insurance policy handling. No data, only scripts and notebooks.
+
+Final video presentation - https://www.youtube.com/watch?v=h6BP6_gxAJQ
+
+Mohammad Saif
+Sharmistha Haldar
+Shashank Chandrashekhar
+Gaurav Mahadik
